@@ -1,5 +1,11 @@
-<h2>LandingPage</h2>
-![LandingPage](https://github.com/user-attachments/assets/d04e59d6-642e-4621-8001-9a414586bcfd)
+<h2>Landing Page</h2>
 
-<h2>ContactPage</h2>
-![ContactPage](https://github.com/user-attachments/assets/996e2f33-0cb4-42ec-9146-dd2850b92087)
+![LandingPage](https://github.com/user-attachments/assets/a4c6f3d7-360d-4732-a095-f8640f58c633)
+
+
+<h2>Contact Page</h2>
+
+![ContactPage](https://github.com/user-attachments/assets/82c94f5f-d60f-4341-b37a-c9472ff68c65)
+
+
+
