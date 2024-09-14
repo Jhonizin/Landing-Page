@@ -1,12 +1,7 @@
-html, 
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+html, body {
     background-color: #336399;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    width: 100%;
+    margin-left: 20px ;
+
 }
 
 .container-navbar {
@@ -107,91 +102,31 @@ body {
     color: #336399;
 }
 
-.menu-icon {
-    color: #DFAF67;
-}
-
 .menu-icon:hover {
-    scale: 1.2;
+    transform: scale(1.1);
     cursor: pointer;
 }
 
-.conteudo {
-    height: 100vh;
-    width: 100%;
-}
-
-.content h2 {
-    font-family: 'Oswald', sans-serif;
-    font-size: medium;
-}
-
-.container-desconto {
-    position: relative;
-}
-
-.desconto {
+h1 {
     color: #DFAF67;
-    font-size: 80px;
-    display: flex;
-    margin: 100px;
-    position: absolute;
-    left: 100px;
-    top: 10px
+    font-size: 35px;
+    font-family: 'nerko One';
 }
 
-.conteudo {
-    display: relative;
-
-}
-
-.content {
-    display: absolute;
-    position: absolute;
-    left: 300px;
-    bottom: 100px;
-    top: 300px;    
-    width: 600px;
-}
-
-.content h2 {
+h2 {
     color: #DFAF67;
-    font-size: 50px;
+    font-size: 25px ;
+    font-family: 'nerko One';
 }
 
-.subtitulo {
-    color: #DFAF67;
-    font-size: 25px;
-    position: absolute;
-    top: 90px;
-    font-family: 'oswald', sans-serif;
-}
-
-.innovaweb-publi {
-    position: absolute;
-    right: 10px;
-    top: 200px;
-    left: 1000px;
-}
-
-.button {
-    position: absolute;
-    left: 200px;
-    bottom: 100px;
-    top: 470px;
-}
-
-.btn {
-    background-color: #DFAF67;
-    border-radius: 30px;
-    padding: 10px;
-    width: 200px;
-    color: black;
-    font-family: 'Oswald', sans-serif;
+p {
     font-size: 20px;
+    font-family: 'oswald';
+
 }
 
-.btn:hover {
-    scale: 1.1;
-    cursor: pointer;
+.servicos-box li {
+    font-size: 20px;
+    font-family: 'oswald';
+    list-style-type: circle;
 }

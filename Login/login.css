@@ -1,12 +1,8 @@
-html, 
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #336399;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    width: 100%;
+html, body {
+    background-image: url(../img/futuristic-home-8397004_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .container-navbar {
@@ -107,91 +103,7 @@ body {
     color: #336399;
 }
 
-.menu-icon {
-    color: #DFAF67;
-}
-
 .menu-icon:hover {
-    scale: 1.2;
-    cursor: pointer;
-}
-
-.conteudo {
-    height: 100vh;
-    width: 100%;
-}
-
-.content h2 {
-    font-family: 'Oswald', sans-serif;
-    font-size: medium;
-}
-
-.container-desconto {
-    position: relative;
-}
-
-.desconto {
-    color: #DFAF67;
-    font-size: 80px;
-    display: flex;
-    margin: 100px;
-    position: absolute;
-    left: 100px;
-    top: 10px
-}
-
-.conteudo {
-    display: relative;
-
-}
-
-.content {
-    display: absolute;
-    position: absolute;
-    left: 300px;
-    bottom: 100px;
-    top: 300px;    
-    width: 600px;
-}
-
-.content h2 {
-    color: #DFAF67;
-    font-size: 50px;
-}
-
-.subtitulo {
-    color: #DFAF67;
-    font-size: 25px;
-    position: absolute;
-    top: 90px;
-    font-family: 'oswald', sans-serif;
-}
-
-.innovaweb-publi {
-    position: absolute;
-    right: 10px;
-    top: 200px;
-    left: 1000px;
-}
-
-.button {
-    position: absolute;
-    left: 200px;
-    bottom: 100px;
-    top: 470px;
-}
-
-.btn {
-    background-color: #DFAF67;
-    border-radius: 30px;
-    padding: 10px;
-    width: 200px;
-    color: black;
-    font-family: 'Oswald', sans-serif;
-    font-size: 20px;
-}
-
-.btn:hover {
-    scale: 1.1;
+    transform: scale(1.1);
     cursor: pointer;
 }
